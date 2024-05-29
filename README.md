@@ -8,11 +8,26 @@ In the project directory, you can run:
 
 ### `npm start`
 
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+
+# Product List Application
+
+This project is a React application that fetches product data from the FakeStore API and displays it in a list. Users can search for products, view detailed information about each product in a modal, and see product ratings.
+
+## Features
+
+- Fetches product data from the FakeStore API
+- Displays a list of products with images, titles, prices, categories, and descriptions
+- Search functionality to filter products by title
+- Modal to display detailed information about a selected product, including rating and number of reviews
+
+
 
 ### `npm test`
 
